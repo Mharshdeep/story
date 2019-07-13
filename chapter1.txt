@@ -1,1 +1,5 @@
-dhbcsjdcnjsnchey i am harshdeep singh how are you
+<<<<<<< HEAD
+ i am harshdeep singh how are you
+=======
+ i am harshdeep singh how are you
+>>>>>>> alien
